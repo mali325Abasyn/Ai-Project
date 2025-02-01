@@ -1,10 +1,5 @@
 fastapi
 uvicorn
-pillow
 numpy
 opencv-python-headless
-transformers
 onnxruntime
-torch
-torchvision
-mangum
